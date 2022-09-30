@@ -21,3 +21,6 @@ print(np.linspace(0,5,10))
 print(np.random.normal(10,3,(3,3)))
 
 print(np.random.randint(0,50,(6,4)))
+
+#************************************
+
