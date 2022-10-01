@@ -19,3 +19,7 @@ print(np.power(v,3))
 print(np.mod(v,2))
 
 print(np.absolute(np.array([-3])))
+
+a = np.array([-3,-5,5,-9])
+
+print(np.absolute(a))
